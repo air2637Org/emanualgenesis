@@ -1,0 +1,12 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\bin\Debug\MaintenanceContractFormsMgmt.dll.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\bin\Debug\MaintenanceContractFormsMgmt.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\bin\Debug\MaintenanceContractFormsMgmt.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\bin\Debug\log4net.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\bin\Debug\log4net.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\obj\Debug\MaintenanceContractFormsMgmt.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\obj\Debug\MaintenanceContractFormsMgmt.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\EManual_Genesis_ZW\MaintenanceContractFormsMgmt\bin\Debug\nunit.framework.xml
